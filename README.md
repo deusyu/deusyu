@@ -1,4 +1,4 @@
-# Rainman / 0xdeusyu
+# Rainman
 
 > **Building systems, not just features.**  
 > AI-Native Engineer · Context Engineering Practitioner · Content Creator
