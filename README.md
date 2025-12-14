@@ -56,6 +56,7 @@ minimum necessity principle for architecture
 ## Find Me
 
 **Blog:** [deusyu.app](https://deusyu.app)
+
 **Email:** [rainman@deusyu.app](mailto:rainman@deusyu.app)
 
 ---
