@@ -5,11 +5,11 @@
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [请立刻开始用语音输入：从“我很抵制”到“这是关键变量”](https://deusyu.app/posts/voice-thought-throughput/) - 13 055 2025
-- [像希腊人一样战斗](https://deusyu.app/posts/greek-challenger-agon/) - 08 5656 2025
-- [上下文工程：AI-Native时代的软件研发新范式](https://deusyu.app/posts/context-engineering-ai-native/) - 04 5151 2025
-- [最后的良弓](https://deusyu.app/posts/end-of-tech-charity/) - 04 044 2025
-- [胶囊编程：一种新的自动化姿势](https://deusyu.app/posts/capsule-programming-ai/) - 03 4646 2025<!-- BLOG-POST-LIST:END -->
+- [请立刻开始用语音输入：从“我很抵制”到“这是关键变量”](https://deusyu.app/posts/voice-thought-throughput/)
+- [像希腊人一样战斗](https://deusyu.app/posts/greek-challenger-agon/)
+- [上下文工程：AI-Native时代的软件研发新范式](https://deusyu.app/posts/context-engineering-ai-native/)
+- [最后的良弓](https://deusyu.app/posts/end-of-tech-charity/)
+- [胶囊编程：一种新的自动化姿势](https://deusyu.app/posts/capsule-programming-ai/)<!-- BLOG-POST-LIST:END -->
 
 ## Current Focus
 
