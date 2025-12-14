@@ -18,7 +18,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://deusyu.app/feed.xml"
-          max_post_count: 6
-          template: "- [$title]($url) - $date"
+          max_post_count: 5
+          template: "- [$title]($url) - $date$newline"
           date_format: "yyyy-MM-dd"
           commit_message: "docs: update blog posts"
