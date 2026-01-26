@@ -5,11 +5,11 @@
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [请立刻开始用语音输入：从“我很抵制”到“这是关键变量”](https://deusyu.app/posts/voice-thought-throughput/)
-- [像希腊人一样战斗](https://deusyu.app/posts/greek-challenger-agon/)
-- [上下文工程：AI-Native时代的软件研发新范式](https://deusyu.app/posts/context-engineering-ai-native/)
-- [最后的良弓](https://deusyu.app/posts/end-of-tech-charity/)
-- [胶囊编程：一种新的自动化姿势](https://deusyu.app/posts/capsule-programming-ai/)<!-- BLOG-POST-LIST:END -->
+- [用Gemini Deep Research 翻译 PDF：实测贝佐斯《Invent and Wander》](https://deusyu.app/posts/gemini-pdf-translate/)
+- [Clash 通用教程：如何为Claude 设置专属代理节点](https://deusyu.app/posts/clash-claude-split/)
+- [中国互联网公司的“软件重构”——冷酷版](https://deusyu.app/posts/china-software-restructuring-power-logic/)
+- [编程agent 的元游戏｜The Coding Agent Metagame 译介](https://deusyu.app/posts/coding-agent-metagame/)
+- [如何完全卸载深信服aTrust](https://deusyu.app/posts/atrust-uninstall/)<!-- BLOG-POST-LIST:END -->
 
 ## Current Focus
 
