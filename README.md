@@ -5,11 +5,11 @@
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rainman 工程体系八问：面试时如何识别卓越工程文化](https://deusyu.app/posts/rainman-eng-culture/)
 - [用Gemini Deep Research 翻译 PDF：实测贝佐斯《Invent and Wander》](https://deusyu.app/posts/gemini-pdf-translate/)
 - [Clash 通用教程：如何为Claude 设置专属代理节点](https://deusyu.app/posts/clash-claude-split/)
 - [中国互联网公司的“软件重构”——冷酷版](https://deusyu.app/posts/china-software-restructuring-power-logic/)
-- [编程agent 的元游戏｜The Coding Agent Metagame 译介](https://deusyu.app/posts/coding-agent-metagame/)
-- [如何完全卸载深信服aTrust](https://deusyu.app/posts/atrust-uninstall/)<!-- BLOG-POST-LIST:END -->
+- [编程agent 的元游戏｜The Coding Agent Metagame 译介](https://deusyu.app/posts/coding-agent-metagame/)<!-- BLOG-POST-LIST:END -->
 
 ## Current Focus
 
