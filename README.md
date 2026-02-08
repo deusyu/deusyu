@@ -6,10 +6,10 @@
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [从《诡秘》这部伟大的作品中，看权力制衡的艺术](https://deusyu.app/posts/solomon-empire-checks-balances/)
-- [Rainman 工程体系八问：面试时如何识别卓越工程文化](https://deusyu.app/posts/rainman-eng-culture/)
-- [用Gemini Deep Research 翻译 PDF：实测贝佐斯《Invent and Wander》](https://deusyu.app/posts/gemini-pdf-translate/)
-- [Clash 通用教程：如何为Claude 设置专属代理节点](https://deusyu.app/posts/clash-claude-split/)
-- [中国互联网公司的“软件重构”——冷酷版](https://deusyu.app/posts/china-software-restructuring-power-logic/)<!-- BLOG-POST-LIST:END -->
+- [请立刻开始用语音输入：从“我很抵制”到“这是关键变量”](https://deusyu.app/posts/voice-thought-throughput/)
+- [像希腊人一样战斗](https://deusyu.app/posts/greek-challenger-agon/)
+- [上下文工程：AI-Native时代的软件研发新范式](https://deusyu.app/posts/context-engineering-ai-native/)
+- [最后的良弓](https://deusyu.app/posts/end-of-tech-charity/)<!-- BLOG-POST-LIST:END -->
 
 ## Current Focus
 
