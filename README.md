@@ -5,11 +5,11 @@
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [两部电影的观影随笔](https://deusyu.app/posts/cinema-time-existence/)
 - [简单说下我最近用 Claude Cowork 的体验](https://deusyu.app/posts/claude-cowork-trial/)
 - [从《诡秘》这部伟大的作品中，看权力制衡的艺术](https://deusyu.app/posts/solomon-empire-checks-balances/)
 - [请立刻开始用语音输入：从“我很抵制”到“这是关键变量”](https://deusyu.app/posts/voice-thought-throughput/)
-- [像希腊人一样战斗](https://deusyu.app/posts/greek-challenger-agon/)
-- [上下文工程：AI-Native时代的软件研发新范式](https://deusyu.app/posts/context-engineering-ai-native/)<!-- BLOG-POST-LIST:END -->
+- [像希腊人一样战斗](https://deusyu.app/posts/greek-challenger-agon/)<!-- BLOG-POST-LIST:END -->
 
 ## Current Focus
 
