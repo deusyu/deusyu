@@ -5,11 +5,11 @@
 
 ## Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [游戏、ChatGPT 与人生：底层都是一种社交系统](https://deusyu.app/posts/game-chatgpt-life-social-system/)
 - [当 RL 训练意外对 CoT 打分:OpenAI 复盘事故全过程](https://deusyu.app/posts/openai-accidental-cot-grading/)
 - [大规模编排 AI 代码审查](https://deusyu.app/posts/ai-code-review/)
 - [自建云不是私有云：一次说清私有云、专有云、混合云、分布式云和企业云](https://deusyu.app/posts/cloud-concepts/)
-- [Harness Engineering 驭缰工程：AI 时代的编程范式转移](https://deusyu.app/posts/ai-harness-engineering/)
-- [两部电影的观影随笔](https://deusyu.app/posts/cinema-time-existence/)<!-- BLOG-POST-LIST:END -->
+- [Harness Engineering 驭缰工程：AI 时代的编程范式转移](https://deusyu.app/posts/ai-harness-engineering/)<!-- BLOG-POST-LIST:END -->
 
 ## Current Focus
 
