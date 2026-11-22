@@ -21,6 +21,9 @@ Systematically applying "Human defines boundaries, AI fills details" methodology
 
 > **Featured Article:** [上下文工程：AI-Native 研发的方法论](https://deusyu.app/posts/context-engineering-ai-native/) — 90K+ reads
 
+**Book Translation with Agents**  
+[translate-book](https://github.com/deusyu/translate-book): an agent skill that translates an entire book into any language with parallel subagents. 中文导读: [translate.dyu.sh](https://translate.dyu.sh/)
+
 ## Tech Stack
 
 **Current:**
