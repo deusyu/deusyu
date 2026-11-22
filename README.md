@@ -25,7 +25,7 @@ Systematically applying "Human defines boundaries, AI fills details" methodology
 [translate-book](https://github.com/deusyu/translate-book): an agent skill that translates an entire book into any language with parallel subagents. 中文导读: [translate.dyu.sh](https://translate.dyu.sh/)
 
 **Harness Engineering Study Guide**  
-[harness-engineering](https://github.com/deusyu/harness-engineering): a deep-dive study archive on Harness Engineering, from concepts to hands-on practice: humans steer, agents execute. 在线阅读: [harness.dyu.sh](https://harness.dyu.sh/)
+[harness-engineering](https://github.com/deusyu/harness-engineering): a deep-dive study archive on Harness Engineering, from concepts to hands-on practice. 在线阅读: [harness.dyu.sh](https://harness.dyu.sh/)
 
 ## Tech Stack
 
